@@ -1,5 +1,6 @@
 build:
-docker:
-worker: Dockerfile
+  docker:
+      worker: /fox/Dockerfile
 run:
-worker: npm start
+   worker: npm start
+© 2022 GitHub, Inc.
